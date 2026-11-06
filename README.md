@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, My name is Sophorn Ratanaksanja
 
-<!--
-**Sprsanja/Sprsanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Mobile App Developer**
+I'm documenting my journey from beginner to professional developer one project at a time.
 
-Here are some ideas to get you started:
+**Education:** Business at HRU(Human Resource University) & IT student at the ISTAD(Institution Of Science And Technology Advance Development)
+**Focus:** Mobile application development 
+**Learning:** Flutter, Dart, Git, databases
+**Goal:** Becoming a professional developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Journey to Becoming Professional Developer**
+This GitHub is a record of my progress.
+
+From my first Todo List app to complex application, every project shows something new i have learned.
+
+**projects**
+Coming soon
