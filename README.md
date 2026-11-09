@@ -19,4 +19,4 @@ From my first Todo List app to complex application, every project shows somethin
 
 **projects**
 
-Coming soon
+Currently working on a Todo List app for personal use, learning flutter as I go.
